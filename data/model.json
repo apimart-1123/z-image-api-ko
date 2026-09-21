@@ -1,0 +1,14 @@
+{
+  "model_id": "z-image-turbo",
+  "family": "Z-Image Turbo",
+  "snapshot": "2026-09-21",
+  "unit": "장당",
+  "price_effective": {
+    "default": 0.01,
+    "prompt_extend": 0.02
+  },
+  "endpoint": "https://api.apimart.ai/v1/images/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "ko",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
