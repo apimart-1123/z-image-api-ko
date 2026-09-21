@@ -2,7 +2,7 @@
 
 > **장당 $0.01** 종량제. 최소 1달러부터 충전하고 OpenAI 호환 `https://api.apimart.ai/v1` 하나로 끝납니다.
 
-**[Z-Image Turbo 모델 페이지](https://apimart.ai/ko/model/z-image-turbo)** · **[실시간 가격](https://apimart.ai/ko/pricing)** · **[API 키 발급](https://apimart.ai/ko/keys)**
+**[Z-Image Turbo 모델 페이지](https://go.apimart.ai/k-664acf)** · **[실시간 가격](https://go.apimart.ai/k-72ee55)** · **[API 키 발급](https://go.apimart.ai/k-2494f1)**
 
 장당 1센트로 카탈로그에서 가장 저렴한 이미지 모델이며 대량 구도 선별에 적합합니다.
 
