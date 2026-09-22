@@ -2,7 +2,8 @@
 
 > **장당 $0.01** 종량제. 최소 1달러부터 충전하고 OpenAI 호환 `https://api.apimart.ai/v1` 하나로 끝납니다.
 
-**[Z-Image Turbo 모델 페이지](https://go.apimart.ai/k-664acf)** · **[실시간 가격](https://go.apimart.ai/k-72ee55)** · **[API 키 발급](https://go.apimart.ai/k-2494f1)**
+<p align="center"><img src="assets/01-preview.jpg" width="820" alt="Z-Image Turbo sample output"></p>
+**[Z-Image Turbo 모델 페이지](https://apimart.ai/ko/model/z-image-turbo)** · **[실시간 가격](https://apimart.ai/ko/pricing)** · **[API 키 발급](https://apimart.ai/ko/keys)**
 
 장당 1센트로 카탈로그에서 가장 저렴한 이미지 모델이며 대량 구도 선별에 적합합니다.
 
@@ -20,6 +21,14 @@
 | `model` | `z-image-turbo` |
 | endpoint | `POST https://api.apimart.ai/v1/images/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 실제 생성 샘플 (모두 실호출 결과)
+
+| sample | 비용 | prompt |
+| --- | --- | --- |
+| <img src="assets/01-preview.jpg" width="260"> | $0.01 | `비 오는 밤 골목, 젖은 아스팔트에 반사되는 네온, 시네마틱 35mm 필름 룩` |
+| <img src="assets/02-preview.jpg" width="260"> | $0.01 | `밝은 스튜디오의 도자기 컵, 부드러운 창문 빛, 85mm 렌즈 느낌` |
 
 ## 실측 가격
 

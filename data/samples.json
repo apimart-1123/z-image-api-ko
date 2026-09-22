@@ -1,0 +1,27 @@
+{
+  "model": "z-image-turbo",
+  "samples": [
+    {
+      "repo": "z-image-api-ko",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.jpg",
+      "bytes": 1630065,
+      "cost": 0.01,
+      "prompt": "비 오는 밤 골목, 젖은 아스팔트에 반사되는 네온, 시네마틱 35mm 필름 룩",
+      "lang": "ko"
+    },
+    {
+      "repo": "z-image-api-ko",
+      "slug": "02-preview",
+      "ok": true,
+      "file": "02-preview.jpg",
+      "bytes": 1013146,
+      "cost": 0.01,
+      "prompt": "밝은 스튜디오의 도자기 컵, 부드러운 창문 빛, 85mm 렌즈 느낌",
+      "lang": "ko"
+    }
+  ],
+  "cost_usd": 0.02,
+  "generated_at": "2026-09-21"
+}
